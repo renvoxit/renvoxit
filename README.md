@@ -34,5 +34,5 @@ Python · Flask · PostgreSQL · Linux · Docker · Git
     width="45%" />
 </p>
 
-<p align="left"><sub>status: operational</sub></p>
+<p align="right"><sub>status: operational</sub></p>
 

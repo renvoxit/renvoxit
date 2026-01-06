@@ -9,23 +9,29 @@ System-oriented backend development | Security-aware thinking
 - Currently focused on **Python**, **Flask**, **FastAPI** and **PostgreSQL**.  
 - Learning and developing in the field of **Cybersecurity**.  
 - Working with **Linux** as a primary environment.  
-- Building and maintaining personal projects to strengthen backend and security skills. 
+- Building and maintaining personal projects to strengthen backend and security skills.
+
+
 
 ## Current Focus  
 - Deepening Flask&FastAPI backend architecture (blueprints, authentication)  
 - Practicing SQLAlchemy and PostgreSQL optimization  
 - Learning cybersecurity fundamentals and ethical hacking tools
 
+
+
 ## How I Approach Development
 
-I’m mostly interested in how things work under the hood.
+I’m mostly interested in how things work under the hood.<br>
 Not just writing code that works, but understanding why it works and where it can break.
 
-When I build something, I try to keep the logic simple and predictable.
+When I build something, I try to keep the logic simple and predictable.<br>
 I pay attention to structure, edge cases, and how different parts of the system interact.
 
-My interest in cybersecurity comes from the same place.
+My interest in cybersecurity comes from the same place.<br>
 It helps me think more carefully about backend design, data flow, and possible failure points instead of treating security as an afterthought.
+
+
 
 ## Stack  
 Python · Flask · FastAPI  ·  PostgreSQL · Linux · Docker · Git

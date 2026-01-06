@@ -1,7 +1,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=010a05&height=130&section=header&text=root@renvoxit:~$&font=monospace&fontColor=c9ffd9&fontSize=34&fontAlign=20&fontAlignY=55&stroke=010a05&strokeWidth=1" />
 
-Cybersecurity & Python Development
+System-oriented backend development | Security-aware thinking
 
 ---
 
@@ -14,7 +14,18 @@ Cybersecurity & Python Development
 ## Current Focus  
 - Deepening Flask&FastAPI backend architecture (blueprints, authentication)  
 - Practicing SQLAlchemy and PostgreSQL optimization  
-- Learning cybersecurity fundamentals and ethical hacking tools  
+- Learning cybersecurity fundamentals and ethical hacking tools
+
+## How I Approach Development
+
+I’m mostly interested in how things work under the hood.
+Not just writing code that works, but understanding why it works and where it can break.
+
+When I build something, I try to keep the logic simple and predictable.
+I pay attention to structure, edge cases, and how different parts of the system interact.
+
+My interest in cybersecurity comes from the same place.
+It helps me think more carefully about backend design, data flow, and possible failure points instead of treating security as an afterthought.
 
 ## Stack  
 Python · Flask · FastAPI  ·  PostgreSQL · Linux · Docker · Git
@@ -33,4 +44,5 @@ Python · Flask · FastAPI  ·  PostgreSQL · Linux · Docker · Git
     width="45%" />
 </p>
 
-<p align="left"><sub>status: operational</sub></p>
+<p align="left"><sub>status: operational | system integrity maintained
+</sub></p>

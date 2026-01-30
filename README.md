@@ -42,7 +42,7 @@ Python · Flask · FastAPI  ·  PostgreSQL · Linux · Docker · Git
 
 [![Shadow's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=renvoxit&bg_color=010a05&color=c9ffd9&line=033b25&point=c9ffd9&hide_border=true&area=true&area_color=033b25)](https://github.com/renvoxit)
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=renvoxit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=010a05&text_color=c9ffd9&title_color=c9ffd9&icon_color=c9ffd9"  
     width="50%" />
   <img 

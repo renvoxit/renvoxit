@@ -1,5 +1,5 @@
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=010a05&height=130&section=header&text=root@renvoxit:~$&font=monospace&fontColor=c9ffd9&fontSize=34&fontAlign=20&fontAlignY=55&stroke=010a05&strokeWidth=1" />
+<img src="assets/banner.gif" width="100%">
 
 System-oriented backend development | Security-aware thinking
 

@@ -50,5 +50,6 @@ Python · Flask · FastAPI  ·  PostgreSQL · Linux · Docker · Git
     width="45%" />
 </p>
 
+
 <p align="center"><sub>status: operational | system integrity maintained
 </sub></p>

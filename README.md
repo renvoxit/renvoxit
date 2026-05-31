@@ -1,16 +1,16 @@
 <img src="assets/banner.gif" width="100%">
 
 <p align="center">
-  <strong>System-oriented backend development | Security-aware engineering</strong>
+  <strong>Backend systems | Automation | Deployment workflows | Security-aware engineering</strong>
 </p>
 
 ---
 
 ## Hi, I'm Renvoxit
 
-Backend developer focused on Python, API design, automation, Docker-based deployments, and Linux environments.
+Backend developer building Python-based web services, automation tools, bots, and deployment workflows.
 
-I like building practical tools where backend logic, infrastructure, reliability, and security meet. My projects range from deployment tools and backend web apps to bots, automation, and security-focused utilities.
+I focus on clear system design, predictable backend behavior, database-backed features, Docker-based infrastructure, and security-aware engineering. My projects usually sit somewhere between practical product logic and low-level system understanding: APIs, persistence, deployment, automation, validation, and failure analysis.
 
 ---
 
@@ -20,38 +20,32 @@ I like building practical tools where backend logic, infrastructure, reliability
   <img src="https://skillicons.dev/icons?i=python,flask,fastapi,postgres,sqlite,docker,linux,git,github,bash,vscode" />
 </p>
 
-### Backend
-Python - Flask - FastAPI - REST APIs
-
-### Databases
-PostgreSQL - SQLite - SQLAlchemy
-
-### Infrastructure
-Docker - Linux - Traefik - Git
-
-### Tools
-GitHub - VS Code - Bash
-
-### Security Focus
-Cybersecurity fundamentals - Secure backend design - Failure analysis
+**Backend:** Python, Flask, FastAPI, REST APIs  
+**Data:** PostgreSQL, SQLite, SQLAlchemy  
+**Infrastructure:** Docker, Linux, Traefik, Git  
+**Tools:** GitHub, VS Code, Bash  
+**Security:** CSRF protection, session hardening, validation, breach-aware tooling, failure analysis
 
 ---
 
 ## Featured Project
 
-[EasyDeployerHub](https://github.com/renvoxit/EasyDeployerHub) is an open-source mini deployment platform that takes a GitHub repository through a local Docker-based deployment pipeline.
+### [EasyDeployerHub](https://github.com/renvoxit/EasyDeployerHub)
+
+Open-source deployment platform designed to turn GitHub repositories into locally running Docker deployments with minimal manual setup.
 
 `GitHub Repository -> Project Analysis -> Docker Build -> Container Deployment -> Local URL`
 
 Current status: **Backend MVP**
 
-Core capabilities:
+### What it demonstrates
 
-- GitHub OAuth and repository access
+- OAuth-based repository access
 - Repository cloning and validation
 - Basic project type detection
 - Dockerfile generation
-- Docker image build and container startup
+- Docker image builds
+- Container startup and lifecycle handling
 - Deployment status tracking
 - Stage-based deployment logs
 - Local routing with Traefik
@@ -60,25 +54,36 @@ Core capabilities:
 
 ## Project Directions
 
-I use projects to explore backend engineering from different angles. Some are larger platforms, some are focused tools, and some are practice projects for a specific part of the stack.
+My repositories are mostly centered around backend systems and practical software tools.
 
-- **Deployment and developer tools** - Docker workflows, repository analysis, local routing, deployment logs, and infrastructure automation.
-- **Backend web applications** - Flask apps with authentication, admin panels, user flows, file uploads, forms, and database-backed features.
-- **Bots and automation** - Telegram bots, command flows, FSM-style interactions, lightweight storage, and practical user workflows.
-- **Security-focused utilities** - password checking, breach awareness, validation, safe API usage, and failure analysis.
-- **Database and persistence practice** - PostgreSQL, SQLite, SQLAlchemy, JSON storage, schema design, and CRUD logic.
+- **Developer tools and deployment workflows** - repository analysis, Docker builds, container startup, logs, local routing, and infrastructure automation.
+- **Backend web applications** - authentication, admin panels, user flows, forms, file uploads, CRUD logic, and database-backed features.
+- **Bots and automation** - Telegram bots, command flows, FSM-style interactions, lightweight persistence, and practical user workflows.
+- **Security-focused utilities** - password strength checks, breach awareness, validation, safe API usage, and failure analysis.
+- **Data persistence** - PostgreSQL, SQLite, SQLAlchemy, schema design, JSON storage, and CRUD operations.
 
 Examples include [Build Smart](https://github.com/renvoxit/buildsmart), [Telegram Movie Collection Bot](https://github.com/renvoxit/demo_bot), [Online Restaurant](https://github.com/renvoxit/online-restaurant), [Shoe Store](https://github.com/renvoxit/shoe-store), and [Password Checker](https://github.com/renvoxit/password_checker).
+
+---
+
+## Engineering Interests
+
+- Clear backend architecture
+- Reliable deployment flows
+- Practical automation
+- Secure input handling and trust boundaries
+- Database design and predictable persistence
+- Systems that are easy to inspect, debug, and extend
 
 ---
 
 ## Current Focus
 
 - Building backend services and automation tools with Python
-- Improving deployment workflows and Docker-based local infrastructure
-- Developing automation tools, bots, and backend utilities
-- Practicing PostgreSQL and SQLAlchemy
-- Studying cybersecurity fundamentals and secure system design
+- Improving Docker-based deployment workflows and local infrastructure
+- Developing bots and backend utilities with practical user flows
+- Deepening PostgreSQL, SQLAlchemy, and database design
+- Applying cybersecurity fundamentals to backend architecture and failure analysis
 
 ---
 

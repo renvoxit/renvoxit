@@ -1,16 +1,39 @@
 <img src="assets/banner.gif" width="100%">
 
-System-oriented backend development | Security-aware thinking
+<p align="center">
+  <strong>System-oriented backend development | Security-aware engineering</strong>
+</p>
 
 ---
 
-## About
+## Hi, I'm Renvoxit
 
-I build backend systems with a focus on structure, reliability, and understanding how software works under the hood.
+Backend developer focused on Python, API design, Docker-based deployments, and Linux environments.
 
-My main direction is backend development with Python, API design, deployment infrastructure, Linux-based environments, and security-aware engineering.
+I like building tools where backend logic, infrastructure, reliability, and security meet. My main interest is not only making software run, but understanding how the parts interact, where systems can fail, and how to make behavior predictable.
 
-I am especially interested in projects where software, systems, and security meet.
+---
+
+## Featured Project
+
+### [EasyDeployerHub](https://github.com/renvoxit/EasyDeployerHub)
+
+Open-source mini deployment platform that takes a GitHub repository through a local Docker-based deployment pipeline.
+
+**GitHub Repository → Project Analysis → Docker Build → Container Deployment → Local URL**
+
+Current status: **Backend MVP**
+
+Core capabilities:
+
+- GitHub OAuth and repository access
+- Repository cloning and validation
+- Basic project type detection
+- Dockerfile generation
+- Docker image build and container startup
+- Deployment status tracking
+- Stage-based deployment logs
+- Local routing with Traefik
 
 ---
 
@@ -39,7 +62,7 @@ Cybersecurity fundamentals · Secure backend design · Failure analysis
 
 ## Current Focus
 
-- Building and improving **EasyDeployerHub**
+- Improving **EasyDeployerHub** as a practical backend and deployment project
 - Designing backend APIs and deployment workflows
 - Working with Docker-based local deployments
 - Practicing PostgreSQL and SQLAlchemy
@@ -47,36 +70,25 @@ Cybersecurity fundamentals · Secure backend design · Failure analysis
 
 ---
 
-## Featured Project
+## Open To
 
-### EasyDeployerHub
-
-EasyDeployerHub is an open-source mini deployment platform that takes a GitHub repository through a local deployment pipeline.
-
-**GitHub Repository → Project Analysis → Docker Build → Container Deployment → Local URL**
-
-Current capabilities:
-
-- GitHub OAuth and repository access
-- Repository cloning and validation
-- Basic project type detection
-- Dockerfile generation
-- Docker image build and container startup
-- Deployment status tracking
-- Stage-based deployment logs
-- Local routing with Traefik
-
-Current status: **Backend MVP**
+- Backend projects with Python, Flask, FastAPI, PostgreSQL, or Docker
+- Security-aware API and infrastructure work
+- Open-source collaboration around deployment tools and developer platforms
 
 ---
 
-## How I Approach Development
+## Development Approach
 
-I am mostly interested in how systems work internally.
+I care about the internal shape of software: data flow, trust boundaries, failure points, and clear system behavior.
 
-Writing code that runs is only the first layer. I care about why it works, how the parts interact, where it can fail, and how to make the logic predictable.
+For me, cybersecurity fits naturally into backend development. It helps me think more carefully about how systems receive input, protect data, handle errors, and stay understandable under pressure.
 
-My interest in cybersecurity comes from the same place. It helps me think more carefully about backend design, data flow, trust boundaries, and possible failure points instead of treating security as an afterthought.
+---
+
+## Contact
+
+- GitHub: [@renvoxit](https://github.com/renvoxit)
 
 ---
 

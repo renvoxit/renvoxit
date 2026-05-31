@@ -8,32 +8,29 @@
 
 ## Hi, I'm Renvoxit
 
-Backend developer focused on Python, API design, Docker-based deployments, and Linux environments.
+Backend developer focused on Python, API design, automation, Docker-based deployments, and Linux environments.
 
-I like building tools where backend logic, infrastructure, reliability, and security meet. My main interest is not only making software run, but understanding how the parts interact, where systems can fail, and how to make behavior predictable.
+I like building practical tools where backend logic, infrastructure, reliability, and security meet. This profile is a place for different projects: backend services, automation, bots, deployment tools, APIs, and system-oriented experiments.
 
 ---
 
-## Featured Project
+## Projects
 
-### [EasyDeployerHub](https://github.com/renvoxit/EasyDeployerHub)
+I use projects to explore backend engineering from different angles. Some are larger platforms, some are focused tools, and some are experiments for practicing a specific part of the stack.
 
-Open-source mini deployment platform that takes a GitHub repository through a local Docker-based deployment pipeline.
+### Main Directions
 
-**GitHub Repository → Project Analysis → Docker Build → Container Deployment → Local URL**
+- Backend APIs and services
+- Automation tools and bots
+- Deployment and infrastructure workflows
+- Database-backed applications
+- Security-aware backend experiments
 
-Current status: **Backend MVP**
+### Current Example
 
-Core capabilities:
+[EasyDeployerHub](https://github.com/renvoxit/EasyDeployerHub) is one of my backend projects: a mini deployment platform that takes a GitHub repository through a local Docker-based deployment pipeline.
 
-- GitHub OAuth and repository access
-- Repository cloning and validation
-- Basic project type detection
-- Dockerfile generation
-- Docker image build and container startup
-- Deployment status tracking
-- Stage-based deployment logs
-- Local routing with Traefik
+`GitHub Repository -> Project Analysis -> Docker Build -> Container Deployment -> Local URL`
 
 ---
 
@@ -44,27 +41,27 @@ Core capabilities:
 </p>
 
 ### Backend
-Python · Flask · FastAPI · REST APIs
+Python - Flask - FastAPI - REST APIs
 
 ### Databases
-PostgreSQL · SQLite · SQLAlchemy
+PostgreSQL - SQLite - SQLAlchemy
 
 ### Infrastructure
-Docker · Linux · Traefik · Git
+Docker - Linux - Traefik - Git
 
 ### Tools
-GitHub · VS Code · Bash
+GitHub - VS Code - Bash
 
 ### Security Focus
-Cybersecurity fundamentals · Secure backend design · Failure analysis
+Cybersecurity fundamentals - Secure backend design - Failure analysis
 
 ---
 
 ## Current Focus
 
-- Improving **EasyDeployerHub** as a practical backend and deployment project
-- Designing backend APIs and deployment workflows
-- Working with Docker-based local deployments
+- Building backend services and automation tools with Python
+- Improving deployment workflows and Docker-based local infrastructure
+- Developing automation tools, bots, and backend utilities
 - Practicing PostgreSQL and SQLAlchemy
 - Studying cybersecurity fundamentals and secure system design
 
@@ -73,8 +70,9 @@ Cybersecurity fundamentals · Secure backend design · Failure analysis
 ## Open To
 
 - Backend projects with Python, Flask, FastAPI, PostgreSQL, or Docker
+- Automation, bot, and backend utility development
 - Security-aware API and infrastructure work
-- Open-source collaboration around deployment tools and developer platforms
+- Open-source collaboration around developer tools and deployment platforms
 
 ---
 

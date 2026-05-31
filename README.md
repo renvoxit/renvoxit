@@ -26,11 +26,24 @@ I use projects to explore backend engineering from different angles. Some are la
 - Database-backed applications
 - Security-aware backend experiments
 
-### Current Example
+### Featured Project
 
-[EasyDeployerHub](https://github.com/renvoxit/EasyDeployerHub) is one of my backend projects: a mini deployment platform that takes a GitHub repository through a local Docker-based deployment pipeline.
+[EasyDeployerHub](https://github.com/renvoxit/EasyDeployerHub) is one of my backend projects: an open-source mini deployment platform that takes a GitHub repository through a local Docker-based deployment pipeline.
 
 `GitHub Repository -> Project Analysis -> Docker Build -> Container Deployment -> Local URL`
+
+Current status: **Backend MVP**
+
+Core capabilities:
+
+- GitHub OAuth and repository access
+- Repository cloning and validation
+- Basic project type detection
+- Dockerfile generation
+- Docker image build and container startup
+- Deployment status tracking
+- Stage-based deployment logs
+- Local routing with Traefik
 
 ---
 

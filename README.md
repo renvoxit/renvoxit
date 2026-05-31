@@ -113,13 +113,27 @@ That is also why security matters to me. It makes backend development more preci
 
 ### Stats
 
-[![Renvoxit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=renvoxit&bg_color=010a05&color=c9ffd9&line=033b25&point=c9ffd9&hide_border=true&area=true&area_color=033b25)](https://github.com/renvoxit)
+<p align="center">
+  <a href="https://github.com/renvoxit">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=renvoxit&bg_color=010a05&color=c9ffd9&line=033b25&point=c9ffd9&hide_border=true&area=true&area_color=033b25"
+      alt="Renvoxit's GitHub activity graph"
+      width="100%"
+    />
+  </a>
+</p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=renvoxit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=010a05&text_color=c9ffd9&title_color=c9ffd9&icon_color=c9ffd9"
-       width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renvoxit&layout=compact&theme=tokyonight&hide_border=true&bg_color=010a05&text_color=c9ffd9&title_color=c9ffd9"
-       width="45%" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=renvoxit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=010a05&text_color=c9ffd9&title_color=c9ffd9&icon_color=c9ffd9"
+    alt="Renvoxit's GitHub stats"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=renvoxit&layout=compact&theme=tokyonight&hide_border=true&bg_color=010a05&text_color=c9ffd9&title_color=c9ffd9"
+    alt="Renvoxit's top languages"
+    width="41%"
+  />
 </p>
 
 <p align="center">

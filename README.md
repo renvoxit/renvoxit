@@ -10,25 +10,13 @@
 
 Backend developer focused on Python, API design, automation, Docker-based deployments, and Linux environments.
 
-I like building practical tools where backend logic, infrastructure, reliability, and security meet. This profile is a place for different projects: backend services, automation, bots, deployment tools, APIs, and system-oriented experiments.
+I like building practical tools where backend logic, infrastructure, reliability, and security meet. My projects range from deployment tools and backend web apps to bots, automation, and security-focused utilities.
 
 ---
 
-## Projects
+## Featured Project
 
-I use projects to explore backend engineering from different angles. Some are larger platforms, some are focused tools, and some are experiments for practicing a specific part of the stack.
-
-### Main Directions
-
-- Backend APIs and services
-- Automation tools and bots
-- Deployment and infrastructure workflows
-- Database-backed applications
-- Security-aware backend experiments
-
-### Featured Project
-
-[EasyDeployerHub](https://github.com/renvoxit/EasyDeployerHub) is one of my backend projects: an open-source mini deployment platform that takes a GitHub repository through a local Docker-based deployment pipeline.
+[EasyDeployerHub](https://github.com/renvoxit/EasyDeployerHub) is an open-source mini deployment platform that takes a GitHub repository through a local Docker-based deployment pipeline.
 
 `GitHub Repository -> Project Analysis -> Docker Build -> Container Deployment -> Local URL`
 
@@ -44,6 +32,20 @@ Core capabilities:
 - Deployment status tracking
 - Stage-based deployment logs
 - Local routing with Traefik
+
+---
+
+## Project Directions
+
+I use projects to explore backend engineering from different angles. Some are larger platforms, some are focused tools, and some are practice projects for a specific part of the stack.
+
+- **Deployment and developer tools** - Docker workflows, repository analysis, local routing, deployment logs, and infrastructure automation.
+- **Backend web applications** - Flask apps with authentication, admin panels, user flows, file uploads, forms, and database-backed features.
+- **Bots and automation** - Telegram bots, command flows, FSM-style interactions, lightweight storage, and practical user workflows.
+- **Security-focused utilities** - password checking, breach awareness, validation, safe API usage, and failure analysis.
+- **Database and persistence practice** - PostgreSQL, SQLite, SQLAlchemy, JSON storage, schema design, and CRUD logic.
+
+Examples include [Build Smart](https://github.com/renvoxit/buildsmart), [Telegram Movie Collection Bot](https://github.com/renvoxit/demo_bot), [Online Restaurant](https://github.com/renvoxit/online-restaurant), [Shoe Store](https://github.com/renvoxit/shoe-store), and [Password Checker](https://github.com/renvoxit/password_checker).
 
 ---
 

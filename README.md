@@ -14,6 +14,29 @@ I like building practical tools where backend logic, infrastructure, reliability
 
 ---
 
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,postgres,sqlite,docker,linux,git,github,bash,vscode" />
+</p>
+
+### Backend
+Python - Flask - FastAPI - REST APIs
+
+### Databases
+PostgreSQL - SQLite - SQLAlchemy
+
+### Infrastructure
+Docker - Linux - Traefik - Git
+
+### Tools
+GitHub - VS Code - Bash
+
+### Security Focus
+Cybersecurity fundamentals - Secure backend design - Failure analysis
+
+---
+
 ## Featured Project
 
 [EasyDeployerHub](https://github.com/renvoxit/EasyDeployerHub) is an open-source mini deployment platform that takes a GitHub repository through a local Docker-based deployment pipeline.
@@ -46,29 +69,6 @@ I use projects to explore backend engineering from different angles. Some are la
 - **Database and persistence practice** - PostgreSQL, SQLite, SQLAlchemy, JSON storage, schema design, and CRUD logic.
 
 Examples include [Build Smart](https://github.com/renvoxit/buildsmart), [Telegram Movie Collection Bot](https://github.com/renvoxit/demo_bot), [Online Restaurant](https://github.com/renvoxit/online-restaurant), [Shoe Store](https://github.com/renvoxit/shoe-store), and [Password Checker](https://github.com/renvoxit/password_checker).
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,postgres,sqlite,docker,linux,git,github,bash,vscode" />
-</p>
-
-### Backend
-Python - Flask - FastAPI - REST APIs
-
-### Databases
-PostgreSQL - SQLite - SQLAlchemy
-
-### Infrastructure
-Docker - Linux - Traefik - Git
-
-### Tools
-GitHub - VS Code - Bash
-
-### Security Focus
-Cybersecurity fundamentals - Secure backend design - Failure analysis
 
 ---
 

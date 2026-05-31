@@ -36,7 +36,7 @@ Open-source deployment platform designed to turn GitHub repositories into locall
 
 `GitHub Repository -> Project Analysis -> Docker Build -> Container Deployment -> Local URL`
 
-Current status: **Backend MVP**
+Current stage: **Backend MVP, actively evolving**
 
 ### What it demonstrates
 
@@ -98,21 +98,22 @@ Examples include [Build Smart](https://github.com/renvoxit/buildsmart), [Telegra
 
 ## Development Approach
 
-I care about the internal shape of software: data flow, trust boundaries, failure points, and clear system behavior.
+I care about how systems behave under real conditions: how data moves, where trust boundaries exist, how failures appear, and how the system can stay understandable when something goes wrong.
 
-For me, cybersecurity fits naturally into backend development. It helps me think more carefully about how systems receive input, protect data, handle errors, and stay understandable under pressure.
+That is also why security matters to me. It makes backend development more precise: better validation, safer assumptions, clearer error handling, and more reliable system design.
 
 ---
 
 ## Contact
 
 - GitHub: [@renvoxit](https://github.com/renvoxit)
+- Email: [renvoxit@gmail.com](mailto:renvoxit@gmail.com)
 
 ---
 
 ### Stats
 
-[![Shadow's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=renvoxit&bg_color=010a05&color=c9ffd9&line=033b25&point=c9ffd9&hide_border=true&area=true&area_color=033b25)](https://github.com/renvoxit)
+[![Renvoxit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=renvoxit&bg_color=010a05&color=c9ffd9&line=033b25&point=c9ffd9&hide_border=true&area=true&area_color=033b25)](https://github.com/renvoxit)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=renvoxit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=010a05&text_color=c9ffd9&title_color=c9ffd9&icon_color=c9ffd9"
